@@ -56,3 +56,8 @@ Total alpha 0.001, Bonferroni over 4 tests (0.00025 each). Run `python qrng/anal
 ## Bit budget (free ANU tier)
 
 50 requests x 1024 words = 51,200 words = 25,600 uniforms per fetch. Worst case need: 4 x 40 x 48 = 7,680 per condition. Leaves room for one replication.
+
+## Result (2026-10-03)
+
+Ran exactly as registered. T0 0.338, T1 0.384, T2 0.321, T3 0.382 (3/4 prompts usable).
+All above 0.00025. VERDICT: NULL HOLDS. No replication needed.
