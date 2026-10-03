@@ -29,3 +29,6 @@ runs/
 .idea/
 .DS_Store
 Thumbs.db
+
+# --- Hugging Face model cache ---
+.hf/

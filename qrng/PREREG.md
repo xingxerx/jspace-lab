@@ -4,6 +4,10 @@ Fill in the date, then `git commit` this file BEFORE fetching bits or running an
 Changing it after you have seen results voids the test.
 
 - Registered on: 2026-10-02
+- Pseudo seed (condition A): 20261002 (recorded after bit generation, before any model run)
+- Bit sha256 (full manifests in `bits/*.json`):
+  - A pseudo: 88543bd56f046fa94c0afeedec2546dc3824c2cfee9c6705177f9e81e626a883
+  - B quantum: 5fa3eccccb4ce3d2e377973898febca79fe2fdf7e82d4c48dea0c8224969b386
 - Model: Qwen/Qwen3.5-4B, bf16, temperature 1.0, max 48 new tokens
 - Prompts: `qrng/prompts.txt` (4 prompts, frozen)
 - Samples: 40 per prompt per condition (160 per condition)
