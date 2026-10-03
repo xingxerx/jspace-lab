@@ -1,0 +1,31 @@
+# --- Credentials / secrets (ANU QRNG API key, HF tokens, etc.) ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+credentials*.json
+.huggingface/
+
+# --- Python virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Python build / cache ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Generated data (large; regenerate with qrng/ scripts) ---
+bits/*.npy
+runs/
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

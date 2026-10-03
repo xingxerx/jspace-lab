@@ -1,0 +1,9 @@
+numpy
+scipy
+requests
+torch
+transformers
+accelerate
+sentence-transformers
+huggingface_hub
+# jlens: pip install -e path\to\jacobian-lens (see README)
