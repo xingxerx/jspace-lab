@@ -61,3 +61,10 @@ Total alpha 0.001, Bonferroni over 4 tests (0.00025 each). Run `python qrng/anal
 
 Ran exactly as registered. T0 0.338, T1 0.384, T2 0.321, T3 0.382 (3/4 prompts usable).
 All above 0.00025. VERDICT: NULL HOLDS. No replication needed.
+
+### Notes on the result (2026-10-05)
+
+- A dry run with a toy model on these same bit files was analyzed before the real run. It did not use the registered model, so it does not void the test, but it is disclosed here.
+- The pseudo seed line was added after bit generation and before any model run.
+- T3 mostly compared formatting tokens, because Qwen3.5 usually opens with a newline or a `<think>` block. T2 is the more informative test.
+- With n=160 per condition, this rules out large differences, not small ones. The stronger evidence is that both bit sources passed the uniformity tests (T0/T1), since outputs can only differ if the uniforms do. Accurate claim: "no detectable difference", not "proved no effect".
