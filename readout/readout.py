@@ -44,9 +44,11 @@ def main():
             for layer, logits in sorted(lens_logits.items()):
                 top = logits[0].topk(a.k).indices.tolist()
                 layers[int(layer)] = [tok.decode([t]) for t in top]
-            out_top = [tok.decode([t]) for t in
-                       model_logits[0, a.position].topk(a.k).indices.tolist()] \
-                if model_logits is not None and model_logits.dim() == 3 else None
+            out_top = None
+            if model_logits is not None:
+                ml = model_logits[0] if model_logits.dim() == 3 else model_logits
+                row = ml[a.position] if ml.dim() == 2 else ml
+                out_top = [tok.decode([t]) for t in row.topk(a.k).indices.tolist()]
             rec = {"ts": time.time(), "model": MODEL_ID, "lens": LENS_FILE,
                    "prompt_id": i, "prompt": prompt, "position": a.position,
                    "layers": layers, "model_top": out_top}
