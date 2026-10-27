@@ -32,3 +32,13 @@ Thumbs.db
 
 # --- Hugging Face model cache ---
 .hf/
+
+# --- secrets and key material: never commit (security baseline) ---
+*.p12
+*.pfx
+*.kdbx
+id_rsa*
+id_ed25519*
+*.seed
+*.seed.*
+*.dpapi
