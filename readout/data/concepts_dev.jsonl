@@ -1,0 +1,15 @@
+{"id": "cd00", "prompt": "Fact: The currency used in the country shaped like a boot is", "bridge": "Italy", "aliases": ["italy", "italian"], "answer": "euro"}
+{"id": "cd01", "prompt": "Fact: The capital of the country where the Eiffel Tower stands is", "bridge": "France", "aliases": ["france", "french"], "answer": "Paris"}
+{"id": "cd02", "prompt": "Fact: The language spoken in the country whose capital is Lima is", "bridge": "Peru", "aliases": ["peru", "peruvian"], "answer": "Spanish"}
+{"id": "cd03", "prompt": "Fact: The ocean on the west coast of the state where Hollywood is located is the", "bridge": "California", "aliases": ["california"], "answer": "Pacific"}
+{"id": "cd04", "prompt": "Fact: The continent where the country with the Great Pyramids of Giza is located is", "bridge": "Egypt", "aliases": ["egypt", "egyptian"], "answer": "Africa"}
+{"id": "cd05", "prompt": "Fact: The author of the play in which a character named Hamlet appears was born in the year", "bridge": "Shakespeare", "aliases": ["shakespeare"], "answer": "1564"}
+{"id": "cd06", "prompt": "Fact: The currency of the country whose capital is Tokyo is the", "bridge": "Japan", "aliases": ["japan", "japanese"], "answer": "yen"}
+{"id": "cd07", "prompt": "Fact: The planet closest to the star at the center of our solar system is", "bridge": "Sun", "aliases": ["sun"], "answer": "Mercury"}
+{"id": "cd08", "prompt": "Fact: The chemical symbol of the element that makes up most of Earth's atmosphere is", "bridge": "nitrogen", "aliases": ["nitrogen"], "answer": "N"}
+{"id": "cd09", "prompt": "Fact: The capital of the country that won the 2014 FIFA World Cup is", "bridge": "Germany", "aliases": ["germany", "german"], "answer": "Berlin"}
+{"id": "cd10", "prompt": "Fact: The language spoken in the country whose capital is Brasília is", "bridge": "Brazil", "aliases": ["brazil", "brazilian"], "answer": "Portuguese"}
+{"id": "cd11", "prompt": "Fact: The color of the fruit that keeps the doctor away, in the saying, is usually", "bridge": "apple", "aliases": ["apple"], "answer": "red"}
+{"id": "cd12", "prompt": "Fact: The number of legs on the animal that spins webs is", "bridge": "spider", "aliases": ["spider"], "answer": "eight"}
+{"id": "cd13", "prompt": "Fact: The home country of the company that makes the PlayStation is", "bridge": "Sony", "aliases": ["sony"], "answer": "Japan"}
+{"id": "cd14", "prompt": "Fact: The capital of the country whose flag has a red maple leaf is", "bridge": "Canada", "aliases": ["canada", "canadian"], "answer": "Ottawa"}

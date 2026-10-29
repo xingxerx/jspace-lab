@@ -1,0 +1,45 @@
+{"id": "ct00", "prompt": "Fact: The currency of the country whose capital is London is the", "bridge": "Britain", "aliases": ["britain", "british", "england", "english", "united kingdom"], "answer": "pound"}
+{"id": "ct01", "prompt": "Fact: The capital of the country famous for the Taj Mahal is", "bridge": "India", "aliases": ["india", "indian"], "answer": "New Delhi"}
+{"id": "ct02", "prompt": "Fact: The language spoken in the country whose capital is Buenos Aires is", "bridge": "Argentina", "aliases": ["argentina", "argentine", "argentinian"], "answer": "Spanish"}
+{"id": "ct03", "prompt": "Fact: The continent where the country with the Great Wall is located is", "bridge": "China", "aliases": ["china", "chinese"], "answer": "Asia"}
+{"id": "ct04", "prompt": "Fact: The currency of the country whose capital is Moscow is the", "bridge": "Russia", "aliases": ["russia", "russian"], "answer": "ruble"}
+{"id": "ct05", "prompt": "Fact: The capital of the country where the Acropolis stands is", "bridge": "Greece", "aliases": ["greece", "greek"], "answer": "Athens"}
+{"id": "ct06", "prompt": "Fact: The language spoken in the country whose capital is Mexico City is", "bridge": "Mexico", "aliases": ["mexican"], "answer": "Spanish"}
+{"id": "ct07", "prompt": "Fact: The currency of the country whose capital is Seoul is the", "bridge": "Korea", "aliases": ["korea", "korean"], "answer": "won"}
+{"id": "ct08", "prompt": "Fact: The capital of the country where the city of Barcelona is located is", "bridge": "Spain", "aliases": ["spain", "spanish"], "answer": "Madrid"}
+{"id": "ct09", "prompt": "Fact: The language spoken in the country whose capital is Kingston is", "bridge": "Jamaica", "aliases": ["jamaica", "jamaican"], "answer": "English"}
+{"id": "ct10", "prompt": "Fact: The capital of the country where the Sydney Opera House stands is", "bridge": "Australia", "aliases": ["australia", "australian"], "answer": "Canberra"}
+{"id": "ct11", "prompt": "Fact: The currency of the country whose capital is Bern is the", "bridge": "Switzerland", "aliases": ["switzerland", "swiss"], "answer": "franc"}
+{"id": "ct12", "prompt": "Fact: The capital of the country where Mount Kilimanjaro is located is", "bridge": "Tanzania", "aliases": ["tanzania", "tanzanian"], "answer": "Dodoma"}
+{"id": "ct13", "prompt": "Fact: The language spoken in the country whose capital is Tehran is", "bridge": "Iran", "aliases": ["iran", "iranian"], "answer": "Persian"}
+{"id": "ct14", "prompt": "Fact: The currency of the country whose capital is Bangkok is the", "bridge": "Thailand", "aliases": ["thailand", "thai"], "answer": "baht"}
+{"id": "ct15", "prompt": "Fact: The capital of the country where Angkor Wat stands is", "bridge": "Cambodia", "aliases": ["cambodia", "cambodian", "khmer"], "answer": "Phnom Penh"}
+{"id": "ct16", "prompt": "Fact: The position from the Sun of the planet with the most famous rings is", "bridge": "Saturn", "aliases": ["saturn"], "answer": "sixth"}
+{"id": "ct17", "prompt": "Fact: The chemical symbol of the gas that humans need to breathe is", "bridge": "oxygen", "aliases": ["oxygen"], "answer": "O"}
+{"id": "ct18", "prompt": "Fact: The chemical symbol of the metal used in most electrical wiring is", "bridge": "copper", "aliases": ["copper"], "answer": "Cu"}
+{"id": "ct19", "prompt": "Fact: The number of sides on the shape of a stop sign is", "bridge": "octagon", "aliases": ["octagon", "octagonal"], "answer": "eight"}
+{"id": "ct20", "prompt": "Fact: The color of the planet named after the Roman god of war is", "bridge": "Mars", "aliases": ["mars"], "answer": "red"}
+{"id": "ct21", "prompt": "Fact: The number of legs on the insect that makes honey is", "bridge": "bee", "aliases": ["bee", "bees"], "answer": "six"}
+{"id": "ct22", "prompt": "Fact: The ocean between the continent where Kenya is located and Australia is the", "bridge": "Africa", "aliases": ["africa", "african"], "answer": "Indian"}
+{"id": "ct23", "prompt": "Fact: The capital of the US state where Disney World is located is", "bridge": "Florida", "aliases": ["florida"], "answer": "Tallahassee"}
+{"id": "ct24", "prompt": "Fact: The capital of the US state where the Space Needle is located is", "bridge": "Washington", "aliases": ["washington"], "answer": "Olympia"}
+{"id": "ct25", "prompt": "Fact: The capital of the US state where the Grand Canyon is located is", "bridge": "Arizona", "aliases": ["arizona"], "answer": "Phoenix"}
+{"id": "ct26", "prompt": "Fact: The capital of the US state where the Liberty Bell is located is", "bridge": "Pennsylvania", "aliases": ["pennsylvania", "penn"], "answer": "Harrisburg"}
+{"id": "ct27", "prompt": "Fact: The sport played by the team called the Los Angeles Lakers uses a ball that is colored", "bridge": "basketball", "aliases": ["basketball", "basket"], "answer": "orange"}
+{"id": "ct28", "prompt": "Fact: The country where the creator of the theory of relativity was born is", "bridge": "Einstein", "aliases": ["einstein"], "answer": "Germany"}
+{"id": "ct29", "prompt": "Fact: The instrument played by the composer of the Moonlight Sonata was the", "bridge": "Beethoven", "aliases": ["beethoven"], "answer": "piano"}
+{"id": "ct30", "prompt": "Fact: The country where the painter of the Mona Lisa was born is", "bridge": "Leonardo", "aliases": ["leonardo", "vinci", "da vinci"], "answer": "Italy"}
+{"id": "ct31", "prompt": "Fact: The nationality of the author of War and Peace is", "bridge": "Tolstoy", "aliases": ["tolstoy"], "answer": "Russian"}
+{"id": "ct32", "prompt": "Fact: The country where the scientist who discovered penicillin was born is", "bridge": "Fleming", "aliases": ["fleming"], "answer": "Scotland"}
+{"id": "ct33", "prompt": "Fact: The company that makes the iPhone is headquartered in the US state of", "bridge": "Apple", "aliases": ["apple"], "answer": "California"}
+{"id": "ct34", "prompt": "Fact: The country where the company that makes Galaxy smartphones is based is", "bridge": "Samsung", "aliases": ["samsung"], "answer": "South Korea"}
+{"id": "ct35", "prompt": "Fact: The founder of the company that makes Windows is named", "bridge": "Microsoft", "aliases": ["microsoft"], "answer": "Bill Gates"}
+{"id": "ct36", "prompt": "Fact: The country where the car company that makes the Model 3 is based is", "bridge": "Tesla", "aliases": ["tesla"], "answer": "United States"}
+{"id": "ct37", "prompt": "Fact: The largest planet in our solar system is named after the king of the", "bridge": "Jupiter", "aliases": ["jupiter"], "answer": "gods"}
+{"id": "ct38", "prompt": "Fact: The month that comes after the month of Halloween is", "bridge": "October", "aliases": ["october"], "answer": "November"}
+{"id": "ct39", "prompt": "Fact: The day of the week before the day when most Christian churches hold services is", "bridge": "Sunday", "aliases": ["sunday"], "answer": "Saturday"}
+{"id": "ct40", "prompt": "Fact: The season that follows the season when leaves drop is", "bridge": "autumn", "aliases": ["autumn"], "answer": "winter"}
+{"id": "ct41", "prompt": "Fact: The freezing point in Fahrenheit of the liquid that covers most of Earth's surface is", "bridge": "water", "aliases": ["water"], "answer": "32"}
+{"id": "ct42", "prompt": "Fact: The main ingredient of guacamole grows on a tree native to", "bridge": "avocado", "aliases": ["avocado"], "answer": "Mexico"}
+{"id": "ct43", "prompt": "Fact: The capital of the country where the city of Istanbul is located is", "bridge": "Turkey", "aliases": ["turkey", "turkish", "türkiye"], "answer": "Ankara"}
+{"id": "ct44", "prompt": "Fact: The capital of the country where the city of Marrakesh is located is", "bridge": "Morocco", "aliases": ["morocco", "moroccan"], "answer": "Rabat"}

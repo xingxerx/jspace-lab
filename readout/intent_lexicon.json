@@ -1,0 +1,7 @@
+{
+  "_status": "STARTER. Tune on intents_dev.jsonl only, then freeze (Freeze 2 in PREREG.md).",
+  "build": ["code", "implement", "function", "script", "write", "build", "create", "fix", "file", "install"],
+  "explain": ["because", "means", "works", "reason", "explain", "concept", "understand", "how", "why", "mechanism"],
+  "explore": ["imagine", "possible", "future", "could", "would", "idea", "hypothetical", "world", "might", "speculate"],
+  "fact": ["number", "year", "date", "answer", "fact", "current", "price", "name", "count", "value"]
+}

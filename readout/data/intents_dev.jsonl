@@ -1,0 +1,40 @@
+{"id": "id_fact09", "text": "Who wrote the paper Attention Is All You Need?", "label": "fact"}
+{"id": "id_explain00", "text": "How does TCP's three-way handshake work?", "label": "explain"}
+{"id": "id_fact08", "text": "How much VRAM does the RTX 5080 have?", "label": "fact"}
+{"id": "id_explore05", "text": "Suppose robots did all the farming. What happens to small towns?", "label": "explore"}
+{"id": "id_fact02", "text": "Who is the CEO of Nvidia?", "label": "fact"}
+{"id": "id_explain01", "text": "Why does Rust need lifetimes when C doesn't?", "label": "explain"}
+{"id": "id_fact00", "text": "What's the current version of Rust stable?", "label": "fact"}
+{"id": "id_explain08", "text": "Why do quantum computers need error correction?", "label": "explain"}
+{"id": "id_explore02", "text": "Could we use dreams as a source of creative prompts for an AI?", "label": "explore"}
+{"id": "id_build04", "text": "Create a README for my CLI tool with install and usage sections.", "label": "build"}
+{"id": "id_explore04", "text": "What would a programming language designed for AIs look like?", "label": "explore"}
+{"id": "id_explore00", "text": "What if every app on my PC shared one memory store?", "label": "explore"}
+{"id": "id_explain06", "text": "What is the difference between a process and a thread?", "label": "explain"}
+{"id": "id_fact04", "text": "What's the population of Philadelphia?", "label": "fact"}
+{"id": "id_explore01", "text": "Imagine a game where NPCs remember every player they've met. How would that change things?", "label": "explore"}
+{"id": "id_explain09", "text": "Help me understand what a monad is with a simple example.", "label": "explain"}
+{"id": "id_build05", "text": "Implement a ring buffer in C that never allocates after init.", "label": "build"}
+{"id": "id_fact05", "text": "What is the boiling point of water in Fahrenheit?", "label": "fact"}
+{"id": "id_fact07", "text": "What's the default port for PostgreSQL?", "label": "fact"}
+{"id": "id_fact03", "text": "How many qubits does IBM's largest processor have?", "label": "fact"}
+{"id": "id_explore09", "text": "Picture an operating system with no files, only streams. Would it work?", "label": "explore"}
+{"id": "id_build07", "text": "Generate a Dockerfile for a small Python Flask app.", "label": "build"}
+{"id": "id_explore07", "text": "What if a calculator could explain its own steps like a tutor?", "label": "explore"}
+{"id": "id_explore03", "text": "Hypothetically, what would happen if internet latency dropped to zero?", "label": "explore"}
+{"id": "id_build02", "text": "Make a PowerShell script that backs up my Documents folder to the D drive every night.", "label": "build"}
+{"id": "id_fact01", "text": "When was the transistor invented?", "label": "fact"}
+{"id": "id_explain07", "text": "Walk me through how DNS resolution happens step by step.", "label": "explain"}
+{"id": "id_explore08", "text": "Could a city run entirely on a mesh network?", "label": "explore"}
+{"id": "id_explain03", "text": "Explain how a transformer's attention layer mixes information between tokens.", "label": "explain"}
+{"id": "id_explain05", "text": "Teach me how public key encryption lets strangers talk securely.", "label": "explain"}
+{"id": "id_build00", "text": "Write a Rust function that parses a TOML config into a struct.", "label": "build"}
+{"id": "id_build01", "text": "Set up a GitHub Actions workflow that runs cargo test on every push.", "label": "build"}
+{"id": "id_explain04", "text": "Why is my laptop's fan louder when it's on battery?", "label": "explain"}
+{"id": "id_build06", "text": "Fix the borrow checker error in my iterator code.", "label": "build"}
+{"id": "id_explore06", "text": "Is there a world where open-source models beat closed ones permanently?", "label": "explore"}
+{"id": "id_fact06", "text": "When does daylight saving time end this year?", "label": "fact"}
+{"id": "id_explain02", "text": "What does a Jacobian actually measure?", "label": "explain"}
+{"id": "id_build08", "text": "Refactor this module so the database code is behind a trait.", "label": "build"}
+{"id": "id_build03", "text": "Add retry with exponential backoff to this HTTP client.", "label": "build"}
+{"id": "id_build09", "text": "Wire the logger into main so every request gets a trace id.", "label": "build"}

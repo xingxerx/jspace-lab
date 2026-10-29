@@ -1,0 +1,80 @@
+{"id": "it_build06", "text": "Patch the off-by-one bug in the pagination function.", "label": "build"}
+{"id": "it_explain06", "text": "Break down how a VPN hides my traffic.", "label": "explain"}
+{"id": "it_explore03", "text": "Is it possible to build a social network without likes?", "label": "explore"}
+{"id": "it_build16", "text": "Put together a minimal MCP server that exposes one tool called ping.", "label": "build"}
+{"id": "it_explain15", "text": "Why do we need both TCP and UDP?", "label": "explain"}
+{"id": "it_build13", "text": "Port this C function to safe Rust.", "label": "build"}
+{"id": "it_explore19", "text": "What would a museum of the 2020s internet contain?", "label": "explore"}
+{"id": "it_fact04", "text": "How tall is Mount Everest?", "label": "fact"}
+{"id": "it_build00", "text": "Build me a CLI that renames photos by the date they were taken.", "label": "build"}
+{"id": "it_explain02", "text": "Why does floating point math give 0.30000000000000004?", "label": "explain"}
+{"id": "it_build11", "text": "Write a Python script that downloads every image listed in a text file of URLs.", "label": "build"}
+{"id": "it_explain16", "text": "Walk me through how a compiler turns source code into machine code.", "label": "explain"}
+{"id": "it_build07", "text": "Scaffold a new Cargo workspace with a core crate and a cli crate.", "label": "build"}
+{"id": "it_build04", "text": "Create a SQLite schema for tracking workouts and sets.", "label": "build"}
+{"id": "it_build05", "text": "Code a simple snake game in Rust with a terminal UI.", "label": "build"}
+{"id": "it_fact01", "text": "What's the price of a Raspberry Pi 5?", "label": "fact"}
+{"id": "it_explore02", "text": "Imagine a phone that only works when you're outdoors. What changes?", "label": "explore"}
+{"id": "it_explain09", "text": "Help me understand Bayes' theorem in plain words.", "label": "explain"}
+{"id": "it_explain05", "text": "What does the 'static lifetime mean in Rust?", "label": "explain"}
+{"id": "it_explain07", "text": "Why do LLMs hallucinate?", "label": "explain"}
+{"id": "it_explore04", "text": "What would happen if money expired after a year?", "label": "explore"}
+{"id": "it_explain03", "text": "Explain the difference between symmetric and asymmetric encryption.", "label": "explain"}
+{"id": "it_explain08", "text": "How does a hash map get constant-time lookups?", "label": "explain"}
+{"id": "it_fact15", "text": "What's the current interest rate set by the Fed?", "label": "fact"}
+{"id": "it_explore14", "text": "What if every game NPC was controlled by a small local model?", "label": "explore"}
+{"id": "it_explain17", "text": "How does Tailscale get through NAT?", "label": "explain"}
+{"id": "it_explore17", "text": "What if we treated AI agents like employees with job descriptions?", "label": "explore"}
+{"id": "it_explain00", "text": "How does Git store history under the hood?", "label": "explain"}
+{"id": "it_fact03", "text": "What is the speed of light in meters per second?", "label": "fact"}
+{"id": "it_explore12", "text": "Is there a version of email that kills spam by design?", "label": "explore"}
+{"id": "it_explain11", "text": "Why is ML-KEM considered safe against quantum attacks?", "label": "explain"}
+{"id": "it_fact05", "text": "What's the latest version of Python?", "label": "fact"}
+{"id": "it_build17", "text": "Replace the hardcoded API key with an environment variable.", "label": "build"}
+{"id": "it_fact06", "text": "When was ML-KEM standardized by NIST?", "label": "fact"}
+{"id": "it_explore13", "text": "Suppose quantum computers became cheap tomorrow. What breaks first?", "label": "explore"}
+{"id": "it_explore16", "text": "Imagine if code reviews were done by the code's future users.", "label": "explore"}
+{"id": "it_fact00", "text": "What year did the first iPhone come out?", "label": "fact"}
+{"id": "it_fact16", "text": "Who maintains the Linux kernel?", "label": "fact"}
+{"id": "it_build08", "text": "Make a scheduled task that runs my sync script at 3 AM.", "label": "build"}
+{"id": "it_explain10", "text": "What happens in the CPU when a program calls malloc?", "label": "explain"}
+{"id": "it_build01", "text": "Write unit tests for the parser module.", "label": "build"}
+{"id": "it_build14", "text": "Add structured JSON logging to the daemon.", "label": "build"}
+{"id": "it_explore07", "text": "Could a language model run entirely on a smartwatch someday?", "label": "explore"}
+{"id": "it_explore08", "text": "Imagine school where you only learn by building projects.", "label": "explore"}
+{"id": "it_fact18", "text": "How long is the CompTIA Security+ exam?", "label": "fact"}
+{"id": "it_fact02", "text": "Who won the last Super Bowl?", "label": "fact"}
+{"id": "it_explain13", "text": "Explain what a race condition is and why it is hard to reproduce.", "label": "explain"}
+{"id": "it_build03", "text": "Add a --dry-run flag to the deploy command.", "label": "build"}
+{"id": "it_explain19", "text": "Why does my code work in debug but crash in release?", "label": "explain"}
+{"id": "it_fact08", "text": "Who founded Anthropic?", "label": "fact"}
+{"id": "it_explore10", "text": "Could we grow computers instead of manufacturing them?", "label": "explore"}
+{"id": "it_fact13", "text": "How many moons does Mars have?", "label": "fact"}
+{"id": "it_explain01", "text": "What's the point of async/await if it still runs on one thread?", "label": "explain"}
+{"id": "it_explore11", "text": "What if sleep could be split into two-hour chunks with no downside?", "label": "explore"}
+{"id": "it_explain12", "text": "How does gradient descent find the minimum?", "label": "explain"}
+{"id": "it_fact17", "text": "What is the atomic number of carbon?", "label": "fact"}
+{"id": "it_build15", "text": "Draft a Makefile that builds, tests, and packages the project.", "label": "build"}
+{"id": "it_build02", "text": "Turn this bash script into PowerShell.", "label": "build"}
+{"id": "it_build09", "text": "Implement JWT verification middleware for this Axum server.", "label": "build"}
+{"id": "it_explore18", "text": "Could music be generated live from your heartbeat?", "label": "explore"}
+{"id": "it_fact14", "text": "When is the next full moon?", "label": "fact"}
+{"id": "it_build18", "text": "Create a Windows installer for the app using WiX.", "label": "build"}
+{"id": "it_explore00", "text": "What if AIs could trade memories with each other?", "label": "explore"}
+{"id": "it_explore15", "text": "Could a home server replace all my cloud subscriptions?", "label": "explore"}
+{"id": "it_explore05", "text": "Suppose every commit had to be signed by two people. Would open source survive?", "label": "explore"}
+{"id": "it_fact10", "text": "What is the capital of Australia?", "label": "fact"}
+{"id": "it_fact19", "text": "What's the population of Japan?", "label": "fact"}
+{"id": "it_fact11", "text": "What time zone is Huntsville, Alabama in?", "label": "fact"}
+{"id": "it_build12", "text": "Hook up the settings page to the save endpoint.", "label": "build"}
+{"id": "it_explore06", "text": "What if cars negotiated with each other instead of using traffic lights?", "label": "explore"}
+{"id": "it_explore01", "text": "Could a video game teach real-world skills without feeling like school?", "label": "explore"}
+{"id": "it_explore09", "text": "What would the internet look like if it were designed today from scratch?", "label": "explore"}
+{"id": "it_fact07", "text": "What's the default SSH port?", "label": "fact"}
+{"id": "it_build19", "text": "Implement a rate limiter that allows 10 requests per second per user.", "label": "build"}
+{"id": "it_explain18", "text": "What does it mean when a model is quantized to int8?", "label": "explain"}
+{"id": "it_build10", "text": "Convert the JSON output to CSV and save it next to the input file.", "label": "build"}
+{"id": "it_explain14", "text": "What makes a qubit different from a regular bit?", "label": "explain"}
+{"id": "it_explain04", "text": "How do noise-cancelling headphones actually cancel sound?", "label": "explain"}
+{"id": "it_fact09", "text": "How many bytes are in a kilobyte?", "label": "fact"}
+{"id": "it_fact12", "text": "What's the max power draw of an RTX 5080?", "label": "fact"}

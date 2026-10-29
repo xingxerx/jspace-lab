@@ -1,0 +1,3 @@
+# Frozen PREREG data: keep LF bytes so sha256 matches on every machine.
+data/*.jsonl -text
+intent_lexicon.json -text
